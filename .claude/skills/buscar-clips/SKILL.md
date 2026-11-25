@@ -82,6 +82,7 @@ Si la usuaria pide "audio motivacional para pegar encima" o "voz en off", cada o
 - **Fondo:** 2–3 clips de Pexels, Pixabay o Mixkit (licencia gratuita), preferiblemente verticales, cuya escena funcione como **metáfora** del audio.
 - **Subtítulos:** estilo de la cuenta (R1/R2): frases cortas, blancas, pequeñas y centradas, sincronizadas con la voz.
 - Música de fondo opcional y suave, por debajo de la voz.
+- **No añadir logo, marca de agua ni firma de la cuenta.** El logo de Instagram que se ve en los videos publicados lo añade Instagram al descargar. Duración máxima del clip: 15 s, salvo que la usuaria pida otra.
 
 ### F2 — Archivo en formato cuadrado
 - **Buscar:** entrevistas o discursos **de archivo** (TV antigua, conferencias de otra época, grabaciones históricas) de personas reconocidas por negocios, liderazgo, filosofía o superación. El material original es 4:3 o casi cuadrado, ideal para centrarlo sobre negro.

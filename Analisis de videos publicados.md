@@ -46,7 +46,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 3. **Ejemplo concreto (15–20 s):** delegar las tareas del hogar.
 4. **Contraste éxito vs. fracaso (20–35 s).**
 5. **Cierre (35–38 s):** frase corta y memorable, "El dinero se recupera, el tiempo no."
-6. **Firma (38–42 s):** logo de Instagram animado (de color a blanco) y @NEUROEMPRENDIMIENTO.ML.
+6. **Logo de Instagram al final (38–42 s):** con @NEUROEMPRENDIMIENTO.ML *(lo añade Instagram al descargar; no forma parte de la edición)*.
 
 ### Edición
 - **Subtítulos palabra por palabra** (1–3 palabras por pantalla), centrados a media altura del pecho, en sans serif blanca gruesa.
@@ -54,7 +54,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 - **Iconos blancos** que refuerzan palabras: casa (hogar), reloj (tiempo), "X" (multiplicar) y bolsa de dinero (bajo valor).
 - **B-roll de 1 a 3 s**: una persona en la cama con el celular cuando dice "a ver, ¿yo quiero ahorrar dinero?" y el estadio lleno cuando dice "o quiero crecer?".
 - **Destello de luz cálida (naranja)** como transición puntual.
-- Marca de agua pequeña (icono de Instagram + usuario) en la zona izquierda o derecha a media altura.
+- Marca de agua pequeña (icono de Instagram + usuario) en la zona izquierda o derecha a media altura *(lo añade Instagram al descargar; no forma parte de la edición)*.
 - Imagen limpia, iluminación uniforme, colores naturales.
 
 ### Qué lo hace funcionar (para buscar clips similares)
@@ -91,7 +91,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 - **Blanco y negro de alto contraste**, tono oscuro y cinematográfico.
 - **Subtítulos por frase** (1–2 líneas), en sans serif condensada y gruesa, blanca, en minúsculas, a la altura del pecho.
 - Pocos cortes: se mantiene la continuidad del discurso, con gestos de manos.
-- Marca de agua pequeña que cambia de posición (izquierda o derecha).
+- Marca de agua pequeña que cambia de posición (izquierda o derecha) *(lo añade Instagram al descargar; no forma parte de la edición)*.
 - **No hay música evidente** (no se pudo confirmar sin el audio). El protagonista es la voz.
 
 ### Qué lo hace funcionar
@@ -130,7 +130,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 - **Cronómetro grande** debajo del subtítulo: crea tensión y hace que la gente se quede hasta el final.
 - Subtítulos pequeños, en sans serif fina y blanca, con mayúscula inicial, centrados sobre el torso.
 - Estudio oscuro con franjas de luz: elegante y sobrio.
-- Marca de agua pequeña que cambia de lado. Cierre con el logo de Instagram en color.
+- Marca de agua pequeña que cambia de lado y logo de Instagram al cierre *(lo añade Instagram al descargar; no forma parte de la edición)*.
 - **Observación técnica:** el archivo es **horizontal (720×494)**. En Reels se vería con barras negras o recortado. Conviene confirmar si se publicó así o si este es el archivo de origen antes de reencuadrar a 9:16.
 
 ### Qué lo hace funcionar
@@ -156,8 +156,8 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 ## Patrones comunes de la cuenta
 
 1. **Duración:** F1 entre 15 y 20 s; F5 entre 40 y 75 s.
-2. **Firma constante:** todos terminan con 3–4 s del logo de Instagram animado (de color a blanco) y **@NEUROEMPRENDIMIENTO.ML** sobre la imagen oscurecida.
-3. **Marca de agua** pequeña durante todo el video, que cambia de lado entre escenas.
+2. **Sin logo ni marca de agua en la edición:** el logo de Instagram con @NEUROEMPRENDIMIENTO.ML que se ve en estos archivos (marca de agua que cambia de lado y logo animado al final) **lo añade Instagram al descargar el video**. Los videos nuevos **no** deben llevarlo (decisión de la usuaria, 25/11/2026).
+3. Al medir la duración de los videos publicados, descontar los 3–4 s finales que añade Instagram.
 4. **Subtítulos siempre presentes**: el video se entiende sin sonido.
 5. **Gancho en los primeros 2–3 s:** afirmación que contradice ("si haces todo tú sola…"), autoridad ("Maquiavelo nos dice"), promesa concreta ("en 60 segundos").
 6. **Una idea por video**, que cierra con una frase que se puede citar sola.

@@ -1,14 +1,14 @@
-"""Montaje F1-V: varios clips de ejercicio en 9:16 + audio + subtitulos + firma.
+"""Montaje F1-V: varios clips de ejercicio en 9:16 + audio + subtitulos (sin logo ni firma).
 Uso: python3 render.py config.json salida.mp4
-config: {"shots":[{"src","ss","cx"}...], "shot_dur":2.5, "audio":path|null, "audio_ss":0, "body":12.5,
-         "end":2.5, "subs":[{"t0","t1","text"}...], "music":path|null}
+config: {"shots":[{"src","ss","cx"}...], "shot_dur":2.5, "audio":path|null, "audio_ss":0, "body":15,
+         "end":0, "subs":[{"t0","t1","text"}...], "music":path|null}
 """
 import json, subprocess, sys, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 B = os.path.join(HERE, 'brand')
 cfg = json.load(open(sys.argv[1])); out = sys.argv[2]
-shots = cfg['shots']; body = cfg['body']; end = cfg['end']; total = body + end
+shots = cfg['shots']; body = cfg['body']; end = cfg.get('end',0); total = body + end
 n = len(shots); dur = total / n
 
 def probe(p):
@@ -25,15 +25,8 @@ for k,s in enumerate(shots):
     flt.append(f"[{k}:v]fps=30,crop={cw}:{h}:{x}:0,scale=1080:1920:flags=lanczos,{GRADE},setsar=1,trim=duration={dur:.3f},setpts=PTS-STARTPTS[s{k}]")
 flt.append(''.join(f'[s{k}]' for k in range(n)) + f"concat=n={n}:v=1:a=0,vignette=PI/5[base]")
 i = n
-inputs += ['-loop','1','-i', os.path.join(B,'watermark.png')]; wm=i; i+=1
-inputs += ['-loop','1','-i', os.path.join(B,'endcard.png')]; ec=i; i+=1
-# oscurecer al final + fundido de entrada
-flt.append(f"[base]fade=t=in:st=0:d=0.3,eq=brightness=-0.0:enable='lt(t,{body})'[b0]")
-flt.append(f"[b0]colorchannelmixer=rr=0.45:gg=0.45:bb=0.45:enable='gte(t,{body})'[b1]")
-flt.append(f"[{wm}:v]format=rgba,trim=duration={total}[wmv]")
-flt.append(f"[b1][wmv]overlay=0:0:enable='lt(t,{body})'[b2]")
-flt.append(f"[{ec}:v]format=rgba,trim=duration={total},fade=t=in:st={body}:d=0.4:alpha=1[ecv]")
-flt.append(f"[b2][ecv]overlay=0:0[b3]")
+# Sin marca de agua ni firma: el logo de Instagram solo aparece al descargar desde la app.
+flt.append(f"[base]fade=t=in:st=0:d=0.3,fade=t=out:st={total-0.4}:d=0.4[b3]")
 # subtitulos: mayusculas, blanco, pequeños, centrados (estilo R1)
 font = os.path.join(B,'Oswald-Medium.ttf')
 last='b3'
@@ -50,7 +43,7 @@ flt.append(f"[{last}]format=yuv420p[vout]")
 amap=[]
 if cfg.get('audio'):
     inputs += ['-ss', str(cfg.get('audio_ss',0)), '-t', str(body), '-i', cfg['audio']]; ai=i; i+=1
-    achain = f"[{ai}:a]aresample=48000,afade=t=in:d=0.05,afade=t=out:st={body-0.25}:d=0.25,apad=whole_dur={total}"
+    achain = f"[{ai}:a]aresample=48000,afade=t=in:d=0.05,afade=t=out:st={body-0.4}:d=0.4,apad=whole_dur={total}"
     if cfg.get('music'):
         inputs += ['-stream_loop','-1','-i', cfg['music']]; mi=i; i+=1
         flt.append(achain+"[voz]")
