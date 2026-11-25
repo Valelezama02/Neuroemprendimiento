@@ -18,5 +18,5 @@ Historial de clips propuestos y usados por la skill `buscar-clips`. Sirve para n
 | 2026-11-25 | F5 (ES) | Atención, adicción a lo irrelevante (neuro) | Marian Rojas Estapé | https://www.youtube.com/watch?v=zEZZk-e8s-E | por verificar | propuesto |
 | 2026-11-25 | F5 (ES) | Emprender: cuándo rendirse, identidad y empresa | Oso Trava en Startupeable | https://startupeable.substack.com/p/oso-trava-a-veces-rendirse-es-lo | por verificar | propuesto |
 | 2026-11-25 | F5 (EN) | Consistencia vs. motivación | Alex Hormozi en Modern Wisdom #830 | https://podcasts.happyscribe.com/modern-wisdom/830-alex-hormozi-24-controversial-truths-about-success-failure | por verificar | propuesto |
-| 2026-11-25 | F1-V | Disciplina sin excusas | Daniel Habif (canal por verificar) | https://www.youtube.com/watch?v=6oX7uxvJRFU | por verificar | propuesto |
-| 2026-11-25 | F4 | El tiempo no es corto, lo perdemos | Séneca, De la brevedad de la vida, cap. I | https://www.textos.info/lucio-anneo-seneca/de-la-brevedad-de-la-vida/pdf | cap. I | propuesto |
+| 2026-11-25 | F1-V | Disciplina sin excusas | Daniel Habif (canal por verificar) | https://www.youtube.com/watch?v=6oX7uxvJRFU | por verificar | elegido (fondo listo, falta audio) |
+| 2026-11-25 | F4 | El tiempo no es corto, lo perdemos | Séneca, De la brevedad de la vida, cap. I | https://www.textos.info/lucio-anneo-seneca/de-la-brevedad-de-la-vida/ebook | cap. I | elegido (video listo) |
