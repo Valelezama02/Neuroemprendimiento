@@ -75,6 +75,14 @@ Si las búsquedas devuelven poco, repetir con `mode: "extended"`.
 - **Consultas ejemplo:** `cinematic running b-roll vertical dark`, `cinematic gym workout b-roll 4k`, `pexels vertical man training dark`, `fish school dark water stock footage`.
 - **Entregar además:** una **frase sugerida** original de la cuenta (sin atribuirla a nadie), de 1–2 líneas, que use la escena como metáfora y no como descripción literal.
 
+#### Variante F1-V — Audio motivacional encima del fondo
+Si la usuaria pide "audio motivacional para pegar encima" o "voz en off", cada opción es una **pareja audio + fondo**:
+- **Audio:** fragmento de 20–45 s de un discurso, conferencia o podcast con voz potente y una idea completa. Preferir oradores en español (en la línea de la cuenta, por ejemplo neurociencia o mentalidad) o discursos famosos con **voz original y subtítulos en español**. Evitar los doblajes de canales de terceros.
+- **Verificar** que el discurso existe y quién lo dio (transcripción oficial, medio o canal del orador). Si es de un canal recopilatorio, marcar "atribución pendiente".
+- **Fondo:** 2–3 clips de Pexels, Pixabay o Mixkit (licencia gratuita), preferiblemente verticales, cuya escena funcione como **metáfora** del audio.
+- **Subtítulos:** estilo de la cuenta (R1/R2): frases cortas, blancas, pequeñas y centradas, sincronizadas con la voz.
+- Música de fondo opcional y suave, por debajo de la voz.
+
 ### F2 — Archivo en formato cuadrado
 - **Buscar:** entrevistas o discursos **de archivo** (TV antigua, conferencias de otra época, grabaciones históricas) de personas reconocidas por negocios, liderazgo, filosofía o superación. El material original es 4:3 o casi cuadrado, ideal para centrarlo sobre negro.
 - **Persona:** debe ser **identificable y verificable**. Si el audio está en otro idioma, se puede usar con subtítulos en español.
