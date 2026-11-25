@@ -1,11 +1,15 @@
-# F1-V — Miedo al fracaso (25/11/2026)
+# F1-V — Miedo al fracaso / duda en uno mismo (25/11/2026)
 
-**Estado:** el fondo está listo; falta el audio.
+**Estado:** el fondo y el audio están listos; la usuaria hace la edición final.
 
-## Audio (elegido: opción 1 de la búsqueda)
-- Mario Alonso Puig con Marco Antonio Regil: "¿Miedo al fracaso o miedo al éxito? Lo que nadie te dice": https://www.youtube.com/watch?v=orPK_szZNwk
-- Fragmento: **pendiente**. La usuaria sube el audio o video y se elige un tramo de máx. 15 s.
-- Fuente alternativa (podcast propio del Dr. Mario Alonso Puig): "¿Por qué el miedo a fallar te bloquea? Cómo superarlo" (4 de mayo de 2026, 14:39).
+## Audio
+- **Archivo subido por la usuaria (25/11/2026):** "Discurso Motivacional" (mp3, 10:46). **No es el video de Mario Alonso Puig**: es una recopilación con narrador en español sobre la duda en uno mismo y el poder de la creencia. Hacia el minuto 3:15 incluye fragmentos de otros oradores. **Canal y autor por confirmar** (falta el enlace original).
+- Transcripción completa con marcas de tiempo: `transcripcion_audio_completo.json` (Whisper small; puede tener errores menores).
+
+| Opción | Tramo en el audio original | Duración | Texto | Archivos |
+|---|---|---|---|---|
+| **B (recomendada)** | **1:20.05 – 1:34.45** | 14,4 s | "Cuando otros te dicen que no puedes, lo que realmente te están diciendo es que ellos no pueden. Están proyectando sus limitaciones sobre ti basados en sus miedos, fracasos o limitaciones, pero sus limitaciones no son las tuyas." | `audio_opcion_B.mp3`, `subtitulos_opcion_B.srt` |
+| A | 0:23.85 – 0:33.75 | 9,9 s | "Piensa en esto. Cada vez que dudes de ti mismo, estás poniendo un límite a lo que puedes lograr, y aquí está la verdad: no hay techo. Los únicos límites son los que te impones tú mismo." | `audio_opcion_A.mp3`, `subtitulos_opcion_A.srt` |
 
 ## Fondos (Mixkit, licencia gratuita de Mixkit)
 | Orden | Clip | Enlace | Tramo usado |
