@@ -99,8 +99,8 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 - Frases cortas, rítmicas, en contraste: cada una se puede citar sola.
 - Tono serio, de "verdad incómoda" sobre poder y carácter.
 
-### Riesgos a tener en cuenta
-- El cierre incluye la llamada a la acción del orador ("sígueme aquí"). Se publicó así: mantenerlo funciona como atribución, pero dirige seguidores a otra cuenta. **Decisión editorial pendiente:** conservarlo o recortarlo y atribuir de otra forma (por ejemplo, con un rótulo con el nombre).
+### Caso aparte (no es estándar)
+- Los clips de Bernardo Jurado (P2 y P3) **fueron un caso aparte**. Su cierre con la llamada a la acción del orador ("sígueme aquí") **no se toma como estándar** de la cuenta: en los clips nuevos no se buscarán ni se conservarán llamadas a la acción de terceros.
 
 ---
 
@@ -124,7 +124,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 1. **Gancho (0–3 s):** promesa concreta con límite de tiempo, "en 60 segundos".
 2. **Lista de unos 20 consejos breves (3–60 s):** cada uno de 2 a 4 s, con un **cronómetro visible** que avanza (00:01.03 → 01:00.00).
 3. **Repetición final (55–60 s):** "Invierte en ti mismo" tres veces, para dar énfasis.
-4. **Cierre del orador (65–67 s)** y firma de la cuenta (67–71 s).
+4. **Cierre del orador (65–67 s)** (caso aparte, no estándar) y firma de la cuenta (67–71 s).
 
 ### Edición
 - **Cronómetro grande** debajo del subtítulo: crea tensión y hace que la gente se quede hasta el final.
@@ -169,7 +169,7 @@ Los archivos P1 a P3 los subió la usuaria el 25/11/2026 como videos ya publicad
 
 - [ ] Confirmar la **fuente original** (persona, canal o podcast, enlace) de P1, R1 y R2.
 - [ ] Confirmar los **canales originales** de Bernardo Jurado de donde salieron P2 y P3.
-- [ ] Decidir la política sobre las **llamadas a la acción de terceros** ("sígueme aquí").
+- [x] Llamadas a la acción de terceros ("sígueme aquí"): **no son estándar**. P2 y P3 fueron un caso aparte (decisión de la usuaria, 25/11/2026).
 - [ ] Añadir **métricas** (vistas, guardados, compartidos) de cada video para saber qué formato rinde más.
 - [ ] Transcribir el **audio** para verificar el texto exacto.
 - [ ] Subir los videos de referencia y las imágenes de stickman que cita el manual (`93384aa9…`, `2ef9ebad…`, `4f850af6…`, `bb6887c9…`, `a0f8a4e2…`, `IMG_0150`–`IMG_0155`).
