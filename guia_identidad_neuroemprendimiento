@@ -91,8 +91,9 @@ depende del material audiovisual de origen:
 
 El morado funciona como color de identidad de la cuenta, pero no es
 necesario teñir todos los videos de morado. En los ejemplos, la
-identidad se conserva mediante el logotipo, el usuario de Instagram, la
-tipografía de los textos y el estilo de edición, mientras que la imagen
+identidad se conserva mediante la tipografía de los textos y el estilo
+de edición (el logo y el usuario de Instagram que se ven en los archivos
+los añade Instagram al descargar; no se ponen en la edición), mientras que la imagen
 de fondo conserva sus colores originales.
 
 ## 4. Tipografía
@@ -150,7 +151,8 @@ No se puede confirmar el nombre de la fuente a partir de la muestra.
 1.  **Gancho:** bold, condensado, grande y breve.
 2.  **Subtítulos:** sans serif limpia, tamaño medio y lectura rápida.
 3.  **Frase emocional o reflexiva:** texto pequeño, blanco y discreto.
-4.  **Marca de agua:** texto pequeño, blanco y de bajo protagonismo.
+4.  **Sin marca de agua:** no se añade logo ni usuario de la cuenta en
+    la edición (ver 6.4).
 
 No mezclar muchas familias tipográficas en una misma pieza. Dos familias
 ---una de impacto y otra funcional--- son suficientes para mantener
@@ -217,13 +219,13 @@ consistencia.
 
 ### 6.4 Marca de agua
 
-En los videos se observa el identificador de Instagram y el usuario de
-la cuenta, en blanco y a tamaño reducido. Funciona como firma y
-atribución de la publicación.
+En los archivos de video se observa el identificador de Instagram y el
+usuario de la cuenta, en blanco y a tamaño reducido, además del logo de
+Instagram animado al final. **Esa marca la añade Instagram al descargar
+el video desde la app; no forma parte de la edición.**
 
-**Recomendación:** mantener una marca de agua discreta, constante y
-suficientemente separada de los bordes. No debe competir con los
-subtítulos ni con el sujeto.
+**Regla:** los videos nuevos **no llevan logo, marca de agua ni firma
+de la cuenta** (decisión de la usuaria, 25/11/2026).
 
 ## 7. Identidad gráfica del perfil
 
@@ -280,7 +282,7 @@ portadas, no transcripciones adicionales de la cuenta.
   Contraste               Alto en portadas y videos oscuros
   Fondos motivacionales   Cinematográficos, oscuros, con sombras
   Fondos educativos       Material original de entrevista, tonos naturales
-  Marca de agua           Usuario de Instagram en blanco, pequeño
+  Marca de agua           Ninguna (la añade Instagram al descargar)
   Texto por pantalla      Breve, jerarquizado y fácil de leer
   Identidad de perfil     Morado, blanco, iconografía lineal
 
@@ -300,8 +302,9 @@ instrucciones:
     entrenamiento, concentración, trabajo y superación.
 5.  En contenido educativo, conservar el carácter real de entrevistas o
     conversaciones y apoyar el mensaje con subtítulos.
-6.  Mantener una jerarquía clara: primero el rostro o la acción, después
-    el mensaje y finalmente la marca de agua.
+6.  Mantener una jerarquía clara: primero el rostro o la acción y
+    después el mensaje. No añadir logo, marca de agua ni firma de la
+    cuenta.
 7.  Evitar efectos, transiciones y elementos decorativos que distraigan
     del mensaje.
 8.  No inventar citas, datos, testimonios ni atribuciones a personas.
@@ -323,7 +326,8 @@ instrucciones:
     oscuro y cinematográfico.
 -   Otro video utiliza una entrevista, subtítulos blancos y material
     visual complementario.
--   Los videos incluyen una marca de agua o identificador de la cuenta.
+-   Los archivos descargados incluyen el identificador de la cuenta,
+    pero lo añade Instagram al descargar; no es parte de la edición.
 
 ### Estimado o no verificable con las muestras
 
@@ -343,8 +347,8 @@ iconografía relacionada con el cerebro y el emprendimiento. El contenido
 audiovisual combina dos estilos: videos motivacionales cinematográficos,
 oscuros y de alto contraste; y videos educativos de entrevistas con
 subtítulos blancos, limpios y legibles. Para las portadas, utiliza
-titulares cortos, grandes, condensados y en negrita. Conserva la marca
-de agua de la cuenta de manera discreta. No fuerces el morado sobre el
+titulares cortos, grandes, condensados y en negrita. No añadas logo,
+marca de agua ni firma de la cuenta. No fuerces el morado sobre el
 material de video: úsalo como acento institucional. Prioriza siempre la
 legibilidad móvil, la jerarquía visual y la claridad del mensaje. Los
 nombres de fuentes y los códigos de color de este documento son
